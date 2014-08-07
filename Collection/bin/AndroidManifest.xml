@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.collection"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Homescreen"
+            android:label="@string/title_activity_homescreen" >
+        </activity>
+        <activity
+            android:name=".Increment"
+            android:label="@string/title_activity_increment" >
+        </activity>
+        <activity
+            android:name=".Subraction"
+            android:label="@string/title_activity_subraction" >
+        </activity>
+        <activity
+            android:name=".Toast"
+            android:label="@string/title_activity_toast" >
+        </activity>
+        <activity
+            android:name=".Spinner"
+            android:label="@string/title_activity_spinner" >
+        </activity>
+        <activity
+            android:name=".Operation"
+            android:label="@string/title_activity_operation" >
+        </activity>
+        <activity
+            android:name=".List"
+            android:label="@string/title_activity_list" >
+        </activity>
+        <activity
+            android:name=".Webviewactivity"
+            android:label="@string/title_activity_webviewactivity" >
+        </activity>
+    </application>
+
+</manifest>

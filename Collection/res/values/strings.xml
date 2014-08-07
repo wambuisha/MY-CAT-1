@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Collection</string>
+    <string name="action_settings">Settings</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Show_password">Show password</string>
+    <string name="Toast">Toast</string>
+    <string name="Back">Back</string>
+    <string name="title_activity_homescreen">Homescreen</string>
+    <string name="Number_One">Number One</string>
+    <string name="Number_Two">Number Two</string>
+    <string name="Result">Result</string>
+    <string name="Add">Add</string>
+    <string name="title_activity_increment">Increment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Enter_number">Enter_number</string>
+    <string name="Increment">Increment</string>
+    <string name="Decrement">Decrement</string>
+    <string name="title_activity_subraction">Subraction</string>
+    <string name="Subract">Subtract</string>
+    <string name="title_activity_toast">Toast</string>
+    <string name="title_activity_spinner">Spinner</string>
+    <string name="text">Text</string>
+    <string name="Display">Display</string>
+    <string name="title_activity_operation">Operation</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_webviewactivity">Webviewactivity</string>
+
+</resources>

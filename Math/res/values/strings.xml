@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="Textviewfirstname">firstname</string>
+    <string name="idno">idno</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="Number_One">Number One</string>
+    <string name="Number_Two">Number two</string>
+    <string name="result">result</string>
+    <string name="Add">Add</string>
+    <string name="Subtract">Subtract</string>
+    <string name="Division">Division</string>
+    <string name="Multiply">Multiply</string>
+    <string name="title_activity_welcomeactivityscreen">Welcomeactivityscreen</string>
+    <string name="title_activity_registerscreen">Registerscreen</string>
+    <string name="title_activity_loginscreen">Loginscreen</string>
+    <string name="title_activity_homescreen">Homescreen</string>
+    
+    <string name="city_names">select your city</string>
+        <string-array name="city names_arrays">
+            <item >Nairobi </item>
+            <item >Kisumu</item>
+            <item >Mombasa</item>
+            </string-array>
+            
+
+</resources>
